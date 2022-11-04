@@ -1,0 +1,20 @@
+#navbar {
+  background-color: darkorange;
+  border: 0cm;
+  height: 150px;
+}
+.hero {
+  background-color: rgb(230, 226, 226);
+  min-height: 100vh;
+  color: rgb(226, 226, 226);
+}
+.hero span {
+  color: darkred;
+  font-size: 20px;
+}
+.hero h1 {
+  text-align: center;
+}
+p {
+  text-align: justify;
+}
